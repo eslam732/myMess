@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "134711504077",
+    "firebase_url": "https://chat-app-6a5a5.firebaseio.com",
+    "project_id": "chat-app-6a5a5",
+    "storage_bucket": "chat-app-6a5a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134711504077:android:d9a83abc73220cf6ee8d84",
+        "android_client_info": {
+          "package_name": "com.example.messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134711504077-059d6vkj63ma1f05jg0ufk082gn06qtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAOnLjrEPVYt138gt6NsLqmVtWNlG_txg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134711504077-059d6vkj63ma1f05jg0ufk082gn06qtu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134711504077-45s9naara8o65h3qiadt5dvla2cutmhf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myMesenger"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
